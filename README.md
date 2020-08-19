@@ -1,6 +1,6 @@
 # iWIND DRIVER
 
-This driver is for the WindSense anemometer.
+This is a moos-ivp driver for a serial wind sensor (Wind Sense).
 
 For the NMEA string this sensor publisher for wind see: <http://nuovamarea.net/blog/wimwv>
 
